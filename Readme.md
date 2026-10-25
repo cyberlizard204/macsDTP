@@ -64,3 +64,4 @@ macsDTP, like its sister project macsCAD, represents the first fully native, swi
 (https://github.com/cyberlizard204/macsDTP/blob/a8ae9100e1579d8bfcb997cc41fda9607546db11/endnotes%20are%20real%20as%20well.jpg)
 (https://github.com/cyberlizard204/macsDTP/blob/1d3ee2b3a8c1652f9a8701ca4f6711e01cd9b7e7/file%20menu.jpg)
 (https://github.com/cyberlizard204/macsDTP/blob/038ded51b055299e4d4978cb9b025af1391bdf28/image%20selected.jpg)
+(https://github.com/cyberlizard204/macsDTP/blob/3c14c23b11773fcbfa0575a9cfd8d36e8a4ddaf9/table%20selected.jpg)
