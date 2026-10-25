@@ -59,7 +59,7 @@ macsDTP, like its sister project macsCAD, represents the first fully native, swi
 creating a new document
 ![alt_image](https://github.com/cyberlizard204/macsDTP/blob/1e059f1033756919b8ad2f352762d087f6052775/create%20a%20document%20screen.jpg)
 
-
+AppleScript and javascript
 ![alt_image](https://github.com/cyberlizard204/macsDTP/blob/afce180b0b30677982cc83b0df7ca30023241028/apple%20and%20javascript%20support.jpg)
 ![alt_image](https://github.com/cyberlizard204/macsDTP/blob/484fd62c5176fb05631150d1020849ad1d5b918a/citation%20manager.jpg)
 ![alt_image](https://github.com/cyberlizard204/macsDTP/blob/3ed53e8f88f51b7fe511c63c09ba6e45bf99fb08/columns%20and%20grids.jpg)
