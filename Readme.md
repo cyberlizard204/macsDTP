@@ -56,4 +56,4 @@ macsDTP, like its sister project macsCAD, represents the first fully native, swi
 * Easy ribbon
 * RGB to CMYK printing suport
 
-(https://github.com/cyberlizard204/macsDTP/blob/1e059f1033756919b8ad2f352762d087f6052775/create%20a%20document%20screen.jpg)
+![alt_image](https://github.com/cyberlizard204/macsDTP/blob/1e059f1033756919b8ad2f352762d087f6052775/create%20a%20document%20screen.jpg)
